@@ -1,4 +1,4 @@
-name := "akka-streams-test"
+name := "akka-streams-examples"
  
 version := "0.1.0 "
  
